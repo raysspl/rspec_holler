@@ -14,4 +14,4 @@ end
 
 Then /^I should see "([^"]*)"$/ do |greeting|
 	@message.should == greeting
-end
+end 
